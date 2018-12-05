@@ -1,0 +1,38 @@
+{
+    "name": "n04h/flarum-ext-japanese",
+    "description": "Japanese language pack.",
+    "type": "flarum-extension",
+    "keywords": ["locale","flarum"],
+    "require": {
+        "flarum/core": "^0.1.0-beta.8"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "N04h",
+            "email": "contact@n04h.jp"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/setsunaMC/flarum-ext-japanese/issues",
+        "source": "https://github.com/setsunaMC/flarum-ext-japanese"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        },
+        "flarum-extension": {
+            "title": "Japanese",
+            "icon": {
+                "image": "icon.svg",
+                "backgroundColor": "#00247d",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center"
+            }
+        },
+        "flarum-locale": {
+            "code": "ja",
+            "title": "Japanese"
+        }
+    }
+}
