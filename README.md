@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of n04h/flarum-ext-japanese.** Not for installation: use [Packagist](https://packagist.org/packages/n04h/flarum-ext-japanese) or the [upstream repository](https://github.com/setsunaMC/flarum-ext-japanese).
 
-**0** versions archived · Latest: [`v1.2.3`](https://github.com/flarchive/n04h-flarum-ext-japanese/tree/archive/v1.2.3) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**6** versions archived · Latest: [`v1.2.3`](https://github.com/flarchive/n04h-flarum-ext-japanese/tree/archive/v1.2.3) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0` | 2018-12-04 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/n04h-flarum-ext-japanese/tree/archive/v1.0) |
+| `v1.1` | 2018-12-04 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/n04h-flarum-ext-japanese/tree/archive/v1.1) |
+| `v1.2` | 2018-12-05 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/n04h-flarum-ext-japanese/tree/archive/v1.2) |
+| `v1.2.1` | 2018-12-05 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/n04h-flarum-ext-japanese/tree/archive/v1.2.1) |
+| `v1.2.2` | 2019-07-08 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/n04h-flarum-ext-japanese/tree/archive/v1.2.2) |
+| `v1.2.3` | 2019-07-09 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/n04h-flarum-ext-japanese/tree/archive/v1.2.3) |
 
 Catalog entry: [packages/n04h-flarum-ext-japanese.json](https://github.com/flarchive/archive-index/blob/main/packages/n04h-flarum-ext-japanese.json)
 
